@@ -12,6 +12,10 @@ var getJSON = function(url) {
 	});
 }
 
+var cargarPlaneta = function(){
+	var contenedorPlantea = document.getElementById('planetas');
+}
+
 getJSON('data/earth-like-results.json')
 	.then(function(mensaje){return getJSON(mensaje.results[0])})
 	.then(function(resultado){console.log(resultado)})
