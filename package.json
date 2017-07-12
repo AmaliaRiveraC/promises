@@ -1,0 +1,21 @@
+{
+  "name": "12-julio",
+  "version": "1.0.0",
+  "description": "node.js, promises, javascript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "promises",
+    "api",
+    "javascropt"
+  ],
+  "author": "Amalia Rivera <amaliariveracastillejos\u001ba\u001bq\u001b1@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "materialize-css": "^0.99.0"
+  }
+}
