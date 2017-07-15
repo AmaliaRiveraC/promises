@@ -17,5 +17,8 @@
   "dependencies": {
     "express": "^4.15.3",
     "materialize-css": "^0.99.0"
+  },
+  "devDependencies": {
+    "materialize-css": "^0.99.0"
   }
 }
